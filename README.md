@@ -2,7 +2,7 @@
 
 This is a showcase expressing my skills in ThreeJs and GSAP animation.
 You Can Simply see the App on the run her :
-`https://abanoub461996.github.io/gsap/`
+`https://abanoub461996.github.io/connectMe/`
 
 ## Technologies & dependencies.
 
@@ -10,7 +10,8 @@ This is a React Project created using Vite, and it depends mainly on ThreeJs and
 
 ## Run The App.
 
-after getting your version of the code from our github repo, u can run the app for development using `npm run dev`.
+after getting your version of the code from our github repo, u can run the app for development using `npm run dev`
+and You can see the app runing at `https://abanoub461996.github.io/connectMe/`.
 
 ## App Detailed Discreption.
 
